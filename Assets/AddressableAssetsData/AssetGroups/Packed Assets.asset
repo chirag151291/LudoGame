@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Packed Assets
+  m_EditorClassIdentifier: 
+  m_GroupName: Packed Assets
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8eb48564913f4444587b39b558ec426c
+  m_SerializeEntries:
+  - m_GUID: 56947ea56e5ac414fa1f996d5b6fa16a
+    m_Address: DiceSides/Side1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fbb15bfde1503a24ba64ac61237b6cf2
+    m_Address: DiceSides/Side2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b2ef2e963057e04498d63b2105eafb53
+    m_Address: DiceSides/Side3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ba840160625f865448a587d15bfb7536
+    m_Address: DiceSides/Side4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7dafbc0170080d64ab0c471d489c4ab8
+    m_Address: DiceSides/Side5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8b088f70b4971814f9ed189727eb2dea
+    m_Address: DiceSides/Side6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dc471fe7d834c65408908a661d52ca76
+    m_Address: Assets/Player.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 2b9f43986a6bb124da572d105ef88df5, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 484d7fe6f8dd50541a00077177c59924, type: 2}
+    - {fileID: 11400000, guid: 4e69598180a5f044e9e738c2a2072784, type: 2}
